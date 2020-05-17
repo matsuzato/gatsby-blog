@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Simple Blog`,
+    title: `easy going blog`,
     author: {
       name: `Mattun72`,
-      summary: `普段は情シスのお仕事しております。`,
+      summary: `お仕事は情シスだと思います。`,
     },
     description: `Gatsby なんも分からんけど Gatsby + Netlify で Blog 初めてみました`,
     siteUrl: `https://flamboyant-hypatia-cb6e5e.netlify.app/`,
