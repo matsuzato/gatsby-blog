@@ -3,9 +3,9 @@ module.exports = {
     title: `Simple Blog`,
     author: {
       name: `Mattun72`,
-      summary: `who lives in Chigasaki.`,
+      summary: `普段は情シスのお仕事しております。`,
     },
-    description: `Gatsby なんも分からんので Blog 初めてみました`,
+    description: `Gatsby なんも分からんけど Gatsby + Netlify で Blog 初めてみました`,
     siteUrl: `https://flamboyant-hypatia-cb6e5e.netlify.app/`,
     social: {
       twitter: `mattun72`,

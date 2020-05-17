@@ -57,10 +57,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        このBlogは <strong>{author.name}</strong> が書いてます。<br />
+        {author.summary}
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Twitter でフォローしてみる
         </a>
       </p>
     </div>
