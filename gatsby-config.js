@@ -3,7 +3,7 @@ module.exports = {
     title: `Simple Blog`,
     author: {
       name: `Mattun72`,
-      summary: `who lives and works in Chigasaki.`,
+      summary: `who lives in Chigasaki.`,
     },
     description: `Gatsby なんも分からんので Blog 初めてみました`,
     siteUrl: `https://flamboyant-hypatia-cb6e5e.netlify.app/`,
