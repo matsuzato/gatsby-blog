@@ -3,7 +3,7 @@ module.exports = {
     title: `easy going blog`,
     author: {
       name: `Mattun72`,
-      summary: `お仕事は情シスだと思います。`,
+      summary: `寒いのは苦手。好きな石は蛍石。`,
     },
     description: `Gatsby なんも分からんけど Gatsby + Netlify で Blog 初めてみました`,
     siteUrl: `https://flamboyant-hypatia-cb6e5e.netlify.app/`,
